@@ -34,9 +34,7 @@ export function RevenueChart() {
           />
         </PieChart>
       </ResponsiveContainer>
-      <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
-        <span className="text-2xl font-bold text-gray-900">40%</span>
-      </div>
+      
     </div>
   );
 }
